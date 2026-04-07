@@ -37,9 +37,9 @@ export default function Footer() {
               Sitemap
             </h4>
             <ul className="space-y-3 text-sm">
-              <li><a href="#hero" className="hover:text-yellow-400">Home</a></li>
+              <li><a href="#navbar" className="hover:text-yellow-400">Home</a></li>
               <li><a href="#about" className="hover:text-yellow-400">About</a></li>
-              <li><a href="#services" className="hover:text-yellow-400">Services</a></li>
+              <li><a href="#Services" className="hover:text-yellow-400">Services</a></li>
               <li><a href="#contact" className="hover:text-yellow-400">Contact</a></li>
             </ul>
           </div>

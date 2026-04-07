@@ -80,7 +80,7 @@ const serviceGroups = [
 
 export default function Services() {
   return (
-    <section id="services" className="bg-zinc-950 py-16 md:py-24 px-4 md:px-6">
+    <section id="Services" className="bg-zinc-950 py-16 md:py-24 px-4 md:px-6">
       <div className="max-w-7xl mx-auto">
         
         {/* Heading */}
